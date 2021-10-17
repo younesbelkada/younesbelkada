@@ -1,7 +1,6 @@
 ### Hey there, it's Younes 👋
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=younesbelkada.younesbelkada&left_color=green&right_color=red)
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/younes-belkada-b1a903145/)](https://www.linkedin.com/in/younes-belkada-b1a903145/)
 [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://younesbelkada.github.io/)](https://younesbelkada.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:younesbelkada@gmail.com)](mailto:younesbelkada@gmail.com)
@@ -9,7 +8,14 @@
 
 Welcome to my personal github page, feel free to reach me out or visit my [website](https://younesbelkada.github.io/) if you want a detailed description of my contributions and projects! 
 
-### Preferred Libraries for Machine Learning / Deep Learning:
+#### Preferred Programming Languages:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+#### Preferred Libraries for Machine Learning / Deep Learning:
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
