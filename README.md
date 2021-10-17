@@ -11,6 +11,11 @@ Welcome to my personal github page, feel free to reach me out or visit my [websi
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+## 📈 Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=younesbelkada&count_private=true&show_icons=true&hide_border=true&theme=highcontrast" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=younesbelkada&hide_border=true&theme=highcontrast&count_private=true" />
+</p>
 
 #### Preferred Programming Languages:
 
