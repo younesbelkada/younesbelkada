@@ -11,6 +11,82 @@ Welcome to my personal github page, feel free to reach me out or visit my [websi
 [![wakatime](https://wakatime.com/badge/user/d19f4220-bb29-44b8-acce-718af64ae578.svg)](https://wakatime.com/@d19f4220-bb29-44b8-acce-718af64ae578)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-88-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 441 Contributions in the Year 2021
+ > 
+> 📦 724.7 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 18 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.37% 
+🌆 Daytime    165 commits    ███████░░░░░░░░░░░░░░░░░░   31.31% 
+🌃 Evening    246 commits    ███████████░░░░░░░░░░░░░░   46.68% 
+🌙 Night      35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.64%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.59% 
+Tuesday      52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.87% 
+Wednesday    121 commits    █████░░░░░░░░░░░░░░░░░░░░   22.96% 
+Thursday     100 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.98% 
+Friday       91 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.27% 
+Saturday     32 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.07% 
+Sunday       91 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.27%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   15 repos            ██████████░░░░░░░░░░░░░░░   40.54% 
+Jupyter Notebook         8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.62% 
+C                        5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.41%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/younesbelkada/younesbelkada/main/charts/bar_graph.png) 
+
+
+ Last Updated on 17/10/2021
 <!--END_SECTION:waka-->
 
 ## 📈 Stats
