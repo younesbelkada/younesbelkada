@@ -8,6 +8,10 @@ Welcome to my personal github page, feel free to reach me out or visit my [websi
 
 [![wakatime](https://wakatime.com/badge/user/d19f4220-bb29-44b8-acce-718af64ae578.svg)](https://wakatime.com/@d19f4220-bb29-44b8-acce-718af64ae578)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 #### Preferred Programming Languages:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
