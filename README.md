@@ -8,3 +8,10 @@
 ![Skype](https://img.shields.io/badge/younes.belkada-%2300AFF0.svg?style=flat&logo=Skype&logoColor=white)
 
 Welcome to my personal github page, feel free to reach me out or visit my [website](https://younesbelkada.github.io/) if you want a detailed description of my contributions and projects! 
+
+### Preferred Libraries for Machine Learning / Deep Learning:
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
